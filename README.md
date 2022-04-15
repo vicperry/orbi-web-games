@@ -5,4 +5,5 @@
 <ul>
   <li>Um jogo da velha;</li>
   <li>Um side-scrooling;</li>
+  <li>Um jogo tipo Genius;</li>
 </ul>
