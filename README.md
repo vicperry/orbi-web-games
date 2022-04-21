@@ -6,4 +6,6 @@
   <li>Um jogo da velha;</li>
   <li>Um side-scrooling;</li>
   <li>Um jogo tipo Genius;</li>
+   <li>Um jogo de dinossauro;</li>
+  <li>Um space-shooter;</li>
 </ul>
